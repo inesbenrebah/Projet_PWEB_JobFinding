@@ -1,0 +1,40 @@
+
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(196, 141, 188);
+    
+}
+.center{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+h1
+{
+	background-color: rgb(188, 146, 181);
+	color:white;
+	font-style: bold;
+}
+legend
+{   font-size: 20px;
+	font-style: bold;
+}
+p
+{   font-size: 20px;
+	font-style: bold;
+}
+#civil{
+	width:150px;
+}
+#infoGen{
+	display:flex;
+}
+#cursus{
+	display:flex;
+}
